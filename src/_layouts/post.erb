@@ -2,8 +2,12 @@
 layout: default
 ---
 
-<h1 class="text-center text-slate-900 text-6xl my-12">
+<h1 class="text-center text-slate-900 text-6xl my-4">
     <%= data.title %>
 </h1>
+<p class="text-center text-gray-600 text-lg mb-12 mt-4">
+    <span><b>Published on:</b> <%= date_to_string data.date, "ordinal" %> <b>by</b> <%= data.author %></span> <br>
+    <span><b>Categories:</b> <%= data.categories.join(', ') %></span>
+</p>
 
 <%= yield %>
