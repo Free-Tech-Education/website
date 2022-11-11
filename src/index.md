@@ -46,7 +46,7 @@ We cover 3 main full-stack frameworks:-
 {:class="mb-4 font-bold text-2xl"}
 ## Courses:-
 
-<div class="grid grid-cols-4 gap-4 mb-12 items-center place-items-center break-all">
+<div class="grid grid-cols-4 gap-4 mb-12 items-center place-items-center break-all sm:break-normal md:break-normal lg:break-normal xl:break-normal">
     <div class="text-center">
         <a href="https://www.gpsred.org/" target="_blank">
             <img src="images/gpsred.png" alt="GPSRED" class="object-center">
