@@ -4,8 +4,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Free Tech Training
+title: Free Tech Education
 tagline: Educating students in software development for FREE
-email: contact@freetechtraining.org
+email: contact@freetecheducation.org
 description: >-
-  FreeTechTraining educates students in software development for FREE
+  FreeTechEducation educates students in software development for FREE

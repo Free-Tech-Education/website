@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Posts
+title: Blog
 ---
 
-<ul>
+<ul class="list-disc list-inside space-y-4">
   <% collections.posts.resources.each do |post| %>
     <li>
-      <a href="<%= post.relative_url %>"><%= post.data.title %></a>
+      <a href="<%= post.relative_url %>" class="text-blue-600 hover:underline">
+        <%= post.data.title %>
+      </a>
     </li>
   <% end %>
 </ul>
