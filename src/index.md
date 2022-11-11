@@ -46,7 +46,7 @@ We cover 3 main full-stack frameworks:-
 {:class="mb-4 font-bold text-2xl"}
 ## Courses:-
 
-<div class="grid grid-cols-4 gap-4 mb-12 items-center place-items-center">
+<div class="grid grid-cols-4 gap-4 mb-12 items-center place-items-center break-all">
     <div class="text-center">
         <a href="https://www.gpsred.org/" target="_blank">
             <img src="images/gpsred.png" alt="GPSRED" class="object-center">
@@ -54,15 +54,15 @@ We cover 3 main full-stack frameworks:-
         </a>
     </div>
     <div class="text-center">
-        <p class="text-4xl font-bold text-slate-900 pb-3">RightApp4u</p>
+        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">RightApp4u</p>
         <p>Web/Mobile/Desktop Application development course in VueJS fullstack framework</p>
     </div>
     <div class="text-center">
-        <p class="text-4xl font-bold text-slate-900 pb-3">Sirtifikate</p>
+        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">Sirtifikate</p>
         <p>DApp Application development course in Ethereum fullstack framework using VueJS for frontend</p>
     </div>
     <div class="text-center">
-        <p class="text-4xl font-bold text-slate-900 pb-3">NextHRBase</p>
+        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">NextHRBase</p>
         <p>Web Application development course in RubyonRails fullstack framework</p>
     </div>
 </div>
@@ -76,7 +76,7 @@ We cover 3 main full-stack frameworks:-
     <img src="images/technologies/pinia.svg" alt="Pinia" title="Pinia" width="90">
     <img src="images/technologies/jest.png" alt="Jest testing framework" title="Jest testing framework" width="120">
     <img src="images/technologies/vite.png" alt="Vite" title="Vite - VueJS Tooling" width="120">
-    <img src="images/technologies/tailwindcss.jpg" alt="TailwindCSS" width="210">
+    <img src="images/technologies/tailwind.svg" alt="TailwindCSS" width="150">
     <img src="images/technologies/firebase.png" alt="Firebase" width="200">
     <img src="images/technologies/couchdb.png" alt="CouchDB" width="120">
     <img src="images/technologies/rubyonrails.png" alt="Ruby on Rails" width="180">
