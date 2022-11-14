@@ -79,6 +79,9 @@ We cover 3 main full-stack frameworks:-
     <img src="images/technologies/tailwind.svg" alt="TailwindCSS" width="150">
     <img src="images/technologies/firebase.png" alt="Firebase" width="200">
     <img src="images/technologies/couchdb.png" alt="CouchDB" width="120">
+    <img src="images/technologies/electron.png" alt="ElectronJS" width="180">
+    <img src="images/technologies/ionic.png" alt="Ionic Framework" width="180">
+    <img src="images/technologies/markdown.png" alt="Markdown" width="120">
     <img src="images/technologies/rubyonrails.png" alt="Ruby on Rails" width="180">
     <img src="images/technologies/postgresql.webp" alt="PostgreSQL" width="120">
     <img src="images/technologies/golang.png" alt="Go Lang" width="150">
