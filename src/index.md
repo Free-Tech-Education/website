@@ -49,13 +49,15 @@ We cover 3 main full-stack frameworks:-
 <div class="grid grid-cols-4 gap-4 mb-12 items-center place-items-center break-all sm:break-normal md:break-normal lg:break-normal xl:break-normal">
     <div class="text-center">
         <a href="https://www.gpsred.org/" target="_blank">
-            <img src="images/gpsred.png" alt="GPSRED" class="object-center">
+            <center><img src="images/gpsred.png" alt="GPSRED" title="GPSRED - Goals Management web app" class="mb-3"></center>
             <p>Web Application development course in VueJS fullstack framework</p>
         </a>
     </div>
     <div class="text-center">
-        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">RightApp4u</p>
-        <p>Web/Mobile/Desktop Application development course in VueJS fullstack framework</p>
+        <a href="https://www.rightapp4u.com/" target="_blank" class="content-center">
+            <center><img src="images/ra-logo.png" alt="RightApp4u - Notes Taking app" title="RightApp4u - Notes Taking app" class="mb-3" width=82></center>
+            <p>Web/Mobile/Desktop Application development course in VueJS fullstack framework</p>
+        </a>
     </div>
     <div class="text-center">
         <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">Sirtifikate</p>
