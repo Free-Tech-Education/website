@@ -60,12 +60,14 @@ We cover 3 main full-stack frameworks:-
         </a>
     </div>
     <div class="text-center">
-        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">Sirtifikate</p>
+        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">Sirtifikate<sub class="text-xs text-red-600">coming soon!</sub></p>
         <p>DApp Application development course in Ethereum fullstack framework using VueJS for frontend</p>
     </div>
     <div class="text-center">
-        <p class="text-xl sm:text-2xl md:text-3xl lg:4xl font-bold text-slate-900 pb-3">NextHRBase</p>
-        <p>Web Application development course in RubyonRails fullstack framework</p>
+        <a href="https://www.nexthrbase.com/" target="_blank" class="content-center">
+            <center><img src="images/nhb-logo.png" alt="NextHRbase - Next Gen HR app" title="NextHRbase - Next Gen HR app" class="mb-3" width=240></center>
+            <p>Web (and mobile) Application development course in RubyonRails fullstack framework</p>
+        </a>
     </div>
 </div>
 
