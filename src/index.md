@@ -34,7 +34,7 @@ We cover 3 main full-stack frameworks:-
 {:class="mb-4 font-bold text-2xl"}
 ## Educating students of:-
 
-<div class="grid grid-cols-6 mb-12 items-center place-items-center">
+<div class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 mb-12 items-center place-items-center">
     <img src="images/dps.png" alt="DPS South Bangalore" width="150">
     <img src="images/nps.png" alt="NPS Kanakapura Road" width="150">
     <img src="images/vvps.png" alt="VVPS Sangrur" width="150">
@@ -46,7 +46,7 @@ We cover 3 main full-stack frameworks:-
 {:class="mb-4 font-bold text-2xl"}
 ## Courses:-
 
-<div class="grid grid-cols-4 gap-4 mb-12 items-center place-items-center break-all sm:break-normal md:break-normal lg:break-normal xl:break-normal">
+<div class="grid grid-cols-2 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 mb-12 items-center place-items-center break-all sm:break-normal md:break-normal lg:break-normal xl:break-normal">
     <div class="text-center">
         <a href="https://www.gpsred.org/" target="_blank">
             <center><img src="images/gpsred.png" alt="GPSRED" title="GPSRED - Goals Management web app" class="mb-3"></center>
@@ -74,7 +74,7 @@ We cover 3 main full-stack frameworks:-
 {:class="mb-4 font-bold text-2xl"}
 ## Technologies:-
 
-<div class="grid grid-cols-6 gap-3 items-center place-items-center">
+<div class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 items-center place-items-center">
     <img src="images/technologies/vuejs.png" alt="VueJS" width="120">
     <img src="images/technologies/nuxt.png" alt="NuxtJS" width="120">
     <img src="images/technologies/pinia.svg" alt="Pinia" title="Pinia" width="90">
