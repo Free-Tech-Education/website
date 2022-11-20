@@ -9,7 +9,7 @@ layout: default
 </div>
 
 {:class="mb-12 text-3xl font-bold prose"}
-We provide <span class="bg-amber-300 border-b border-amber-400 text-dark px-3">FREE live and offline education</span> to students studying from class 6th onwards training them on various software development technologies, frameworks, tools, etc to become the early adopters.
+We provide <span class="bg-amber-300 border-b border-amber-400 text-dark px-3">FREE Tech Education</span> to students studying from class 6th onwards training them on various software development technologies, frameworks, tools, etc to become the early adopters.
 
 {:class="mb-4 font-bold"}
 The majority of the topics we cover are:-
