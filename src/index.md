@@ -74,7 +74,7 @@ We cover 3 main full-stack frameworks:-
 {:class="mb-4 font-bold text-2xl"}
 ## Technologies:-
 
-<div class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 items-center place-items-center">
+<div class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 mb-12 items-center place-items-center">
     <img src="images/technologies/vuejs.png" alt="VueJS" width="120">
     <img src="images/technologies/nuxt.png" alt="NuxtJS" width="120">
     <img src="images/technologies/pinia.svg" alt="Pinia" title="Pinia" width="90">
@@ -92,4 +92,13 @@ We cover 3 main full-stack frameworks:-
     <img src="images/technologies/rust.png" alt="Rust Programming Language" title="Rust Programming Language" width="120">
     <img src="images/technologies/ethereum.png" alt="Ethereum" width="150">
     <img src="images/technologies/hyperledger.png" alt="Hyperledger" width="120">
+</div>
+
+{:class="mb-4 font-bold text-2xl"}
+## Software Subscription Sponsors:-
+
+<div class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 items-center place-items-center">
+    <a href="https://balsamiq.com/givingback/nonprofits/" target="_blank">
+        <img src="https://balsamiq.com/assets/company/brandassets/balsamiq-logo-screen-1000x500.png" alt="Balasmiq" width="180">
+    </a>
 </div>
