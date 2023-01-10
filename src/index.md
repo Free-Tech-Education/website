@@ -31,6 +31,13 @@ We cover 3 main full-stack frameworks:-
 - VueJS
 - Ethereum
 
+<center>
+<hr class="mb-12">
+<h2 class="mb-4 font-bold text-2xl">Sponsor us!</h2>
+<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/sponsor-free-tech-education" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
+<hr class="mt-8 mb-12">
+</center>
+
 {:class="mb-4 font-bold text-2xl"}
 ## Educating students of:-
 
