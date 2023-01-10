@@ -101,4 +101,7 @@ We cover 3 main full-stack frameworks:-
     <a href="https://balsamiq.com/givingback/nonprofits/" target="_blank">
         <img src="https://balsamiq.com/assets/company/brandassets/balsamiq-logo-screen-1000x500.png" alt="Balasmiq" width="180">
     </a>
+    <a href="https://www.sketch.com/education/" target="_blank">
+        <img src="https://cdn.sketch.com/logo/horizontal_onetrust_trans.png" alt="Balasmiq" width="180">
+    </a>
 </div>
