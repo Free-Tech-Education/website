@@ -5,7 +5,7 @@ title: Contact
 
 <section class="bg-white dark:bg-gray-900">
   <div class="py-8 sm:py-2 px-4 mx-auto max-w-screen-md">
-    <p class="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Interested in sponsoring us? Interested in getting students at your school or college trained? Need details about training courses? Get in touch with us by sending us an email on <a href="mailto:<%= site.metadata.email %>" class="hover:underline text-blue-600"><%= site.metadata.email %></a> OR </p>
+    <p class="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Interested in sponsoring us? Interested in getting students at your school or college trained? Need details about training courses? Get in touch with us by sending us an email on <a href="mailto:<%= site.metadata.email %>" class="hover:underline text-blue-600"><%= site.metadata.email %></a>.<br><br><a style="background: #2563eb url(https://donorbox.org/images/red_logo.png) no-repeat 37px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 38px;padding-left: 75px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;box-shadow: 0 1px 0 0 #1f5a89;text-shadow: 0 1px rgba(0, 0, 0, 0.3);" href="https://donorbox.org/sponsor-free-tech-education?default_interval=m" target="_blank">Donate</a></p>
     <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">Fill in the form below:-</h2>
     <form name="contact" method="POST" data-netlify="true" class="space-y-8">
       <div>
